@@ -1,1 +1,1 @@
-Hello World!\n
+Proyecto de Visualización de Eventos Tsunamigénicos\n
