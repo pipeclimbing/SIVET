@@ -1,0 +1,75 @@
+.gm-style-cc { display:none; }
+
+#map a img { display:none; } 
+
+#map2 a img { display:none; } 
+
+#map3 a img { display:none; } 
+
+#map4 a img { display:none; } 
+
+#map5 a img { display:none; }
+
+#map_simulacion2 a img { display:none; }
+
+#map_simulacion a img { display:none; }
+
+
+.jarviswidget {
+ margin: 0 0 0px; 
+}
+
+#main {
+
+padding-bottom: 0px !important;
+
+}
+
+#content {
+	padding: 5px 14px;
+}
+
+legend {
+font-size: 14px;
+}
+#capa {
+	padding-top: 10px;
+	border-top: 1px solid rgba(0,0,0,.1);
+}
+
+.btn-pronostico.active {
+border-bottom: 3px solid #B27300;
+color: #B27300;
+}
+
+.btn-monitoreo.active {
+border-bottom: 3px solid #567134;
+color: #567134;
+}
+
+.btn-decision.active {
+border-bottom: 3px solid #A65858;
+color: #A65858;
+}
+
+/*Timeline*/
+ #bottomPanel {
+        left: 50%;
+        margin: 0 auto;
+        margin-left: -500px;
+        position: absolute; 
+        bottom: 2.5em;
+      }
+
+      #timeInfo{
+        border-radius: 4px;
+        border: solid 2px #ccc;
+        background-color: #fff;
+        display: block;
+        padding: 5px;
+        position: relative;
+        text-align: center;
+        width: 1000px;
+        z-index: 99;
+      }
+
